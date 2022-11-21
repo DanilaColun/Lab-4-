@@ -3,10 +3,9 @@
 
 import tkinter as tk
 from tkinter import messagebox
-from tkinter import *
 from PIL import Image, ImageTk
 from itertools import count
-from KEY import key_code
+from KEY2 import key_code
 import pygame
 
 
